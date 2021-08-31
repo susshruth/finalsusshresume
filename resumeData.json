@@ -1,0 +1,124 @@
+{
+    "main": {
+        "name": "Susshruth Rajakumar Balaji",
+        "description": "I am a 5th grader and I use react and python to develop code.",
+        "image": "profilepic.jpg",
+        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "susshruthrajakumarbalaji@gmail.com",
+        "phone": "Phone Number: None",
+        "github": "https://github.com/susshruth",
+        "project": "https://github.com/susshruth/susshproject1.github.io",
+        "address": {
+            "street": "50 Town Centre",
+            "city": "Scarbrough",
+            "state": "Ontario"
+        },
+        "website": "As of now none.",
+        "resumedownload": "Developing",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/susshruth",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "About me:",
+        "education": [
+            {
+                "school": "University?",
+                "degree": "Masters in Beer tasting",
+                "graduated": "April 2007",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "Hogwarts School of Witchcraft and Wizardry",
+                "degree": "Gryffindor House",
+                "graduated": "March 2003",
+                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+            }
+        ],
+        "work": [
+            {
+                "company": "Department of Magical Law Enforcement",
+                "title": "Ministry of Magic",
+                "years": "December 2010 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "30%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "40%"
+            },
+            {
+                "name": "CSS",
+                "level": "40%"
+            },
+            {
+                "name": "HTML",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
