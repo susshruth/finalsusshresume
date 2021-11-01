@@ -29,6 +29,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "npmconf": "^2.1.1"
   }
 }
