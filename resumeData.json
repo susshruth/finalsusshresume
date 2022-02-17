@@ -77,11 +77,11 @@
         "skills": [
             {
                 "name": "Python",
-                "level": "30%"
+                "level": "45%"
             },
             {
                 "name": "ReactJs",
-                "level": "40%"
+                "level": "60%"
             },
             {
                 "name": "CSS",
@@ -89,7 +89,7 @@
             },
             {
                 "name": "HTML",
-                "level": "60%"
+                "level": "90%"
             }
         ]
     },
